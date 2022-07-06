@@ -1,6 +1,8 @@
-# What is MyProduct?
+# 什么是（暂用名激光控制系统）?
 
 {% hint style="info" %}
+暂用名激光控制系统，可以创建、编辑、修改和保存矢量图元。并且，可以通过通讯中间件与激光控制板卡进行交互完成激光切割、雕刻、印章加工、机械控制和相机交互等多种操作。
+![main_screen_01](images/main_screen_01.png)
 **Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
 {% endhint %}
 

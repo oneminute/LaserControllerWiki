@@ -1,1 +1,1 @@
-[Chinese](cn/)
+[Chinese](cn)

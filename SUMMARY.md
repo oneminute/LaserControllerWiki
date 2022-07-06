@@ -1,21 +1,21 @@
-# Table of contents
+# 目录
 
-* [What is MyProduct?](README.md)
+* [什么是暂用名激光控制系统?](README.md)
 
-## Guides
+## 开始使用
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [获取软件](guides/download.md)
+* [安装软件](guides/install.md)
+* [注册激活](guides/advanced-permissions.md)
 
-## Fundamentals
+## 基本操作
 
 * [Projects](fundamentals/projects.md)
 * [Members](fundamentals/members.md)
 * [Task Lists](fundamentals/task-lists.md)
 * [Tasks](fundamentals/tasks.md)
 
-## Use Cases
+## 示例
 
 * [For Designers](use-cases/for-designers/README.md)
   * [Figma Integration](use-cases/for-designers/figma-integration.md)
@@ -24,6 +24,6 @@
 * [For Support](use-cases/for-support/README.md)
   * [Intercom Integration](use-cases/for-support/intercom-integration.md)
 
-## Extras
+## 常见问题
 
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
